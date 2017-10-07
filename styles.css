@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(255, 219, 89);
+  color: rgb(4, 0, 128);
+}
+
+section {
+  margin-bottom: 80px;
+}
+
+#DEPARTURE_PENNINGTON_TRANS, #DEPARTURE_HENDRY_TRANS {
+  display: none;
+}
+
+#DEPARTURE_PENNINGTON:checked ~ #DEPARTURE_PENNINGTON_TRANS {
+  display: block
+}
+
+#DEPARTURE_HENDRY:checked ~ #DEPARTURE_HENDRY_TRANS {
+  display: block
+}
+
