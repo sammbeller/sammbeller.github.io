@@ -19,6 +19,16 @@ section {
   display: block
 }
 
+.pennington-body {
+  background-color: floralwhite;
+  padding-left: 4%;
+  padding-top: 10%;
+}
+
+.pennington-notes {
+  font-style: italic;
+}
+
 .post {
   max-width: 1000px;
   margin: 0 auto;
