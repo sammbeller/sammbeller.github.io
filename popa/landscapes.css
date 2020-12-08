@@ -1,0 +1,28 @@
+body {
+  background-color: antiquewhite;
+  margin: 0;
+}
+
+section {
+  padding: 8px;
+}
+
+section#ashtray {
+  background-color: dimgray;
+}
+
+section#sigh {
+  background-color: goldenrod;
+}
+
+section#table {
+  background-color: gold;
+}
+
+section#groan {
+  background-color: firebrick;
+}
+
+section#hats {
+  background-color: peru;
+}
